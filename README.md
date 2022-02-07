@@ -25,7 +25,7 @@
         </a>
         <br />
         <br />
-        <a href="https://aaguirre7.github.io/pass-o-maker/">
+        <a href="https://aaguirre7.github.io/weather-man/">
             View the site
         </a>
     </p>
